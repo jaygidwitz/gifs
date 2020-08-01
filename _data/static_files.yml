@@ -1,104 +1,60 @@
 ---
-- title: 10fe2fdb58671de2385f90e569e48d292e1f6674aae7765c673b6e7041f5c8d8.gif
-  category: Fantastic Planet
-  path: Fantastic Planet/10fe2fdb58671de2385f90e569e48d292e1f6674aae7765c673b6e7041f5c8d8.gif
-  modified_time: 1596228993
+- title: images.jpg
+  category: Southland-Tales
+  path: Southland-Tales/images.jpg
+  modified_time: 1596202845
   tags:
-  - 10fe2fdb58671de2385f90e569e48d292e1f6674aae7765c673b6e7041f5c8d8
-  - Fantastic Planet
-  - gif
-- title: chromeo-1.gif
-  category: Jay Sprogell
-  path: Jay Sprogell/chromeo-1.gif
-  modified_time: 1596227791
+  - Southland
+  - Tales
+  - images
+  - jpg
+- title: impossible.gif
+  category: Matt-Taylor
+  path: Matt-Taylor/impossible.gif
+  modified_time: 1596152245
   tags:
-  - '1'
-  - Jay Sprogell
-  - chromeo
+  - Matt
+  - Taylor
   - gif
-- title: cceec6e511083d02a1c7d9ec223ea58d.gif
-  category: Jay Sprogell
-  path: Jay Sprogell/cceec6e511083d02a1c7d9ec223ea58d.gif
-  modified_time: 1596227784
+  - impossible
+- title: A6EOGK2.gif
+  category: MC-Escher
+  path: MC-Escher/A6EOGK2.gif
+  modified_time: 1596159024
   tags:
-  - Jay Sprogell
-  - cceec6e511083d02a1c7d9ec223ea58d
+  - A6EOGK2
+  - Escher
+  - MC
   - gif
-- title: chxdl_2alt.gif
-  category: Jay Sprogell
-  path: Jay Sprogell/chxdl_2alt.gif
-  modified_time: 1596227797
+- title: giphy-downsized-large.gif
+  category: MC-Escher
+  path: MC-Escher/giphy-downsized-large.gif
+  modified_time: 1596158116
   tags:
-  - 2alt
-  - Jay Sprogell
-  - chxdl
+  - Escher
+  - MC
+  - downsized
   - gif
-- title: 419e6861043792fba54a7571de3c373d.gif
-  category: Jay Sprogell
-  path: Jay Sprogell/419e6861043792fba54a7571de3c373d.gif
-  modified_time: 1596227770
+  - giphy
+  - large
+- title: giphy.gif
+  category: MC-Escher
+  path: MC-Escher/giphy.gif
+  modified_time: 1596158076
   tags:
-  - 419e6861043792fba54a7571de3c373d
-  - Jay Sprogell
+  - Escher
+  - MC
   - gif
-- title: infinite-escher.gif
-  category: Feliks Tomasz Konczakowski
-  path: Feliks Tomasz Konczakowski/infinite-escher.gif
-  modified_time: 1596158143
+  - giphy
+- title: 74cffae858c1f4c969a567f66bde38a5.gif
+  category: MC-Escher
+  path: MC-Escher/74cffae858c1f4c969a567f66bde38a5.gif
+  modified_time: 1596158128
   tags:
-  - Feliks Tomasz Konczakowski
-  - escher
+  - 74cffae858c1f4c969a567f66bde38a5
+  - Escher
+  - MC
   - gif
-  - infinite
-- title: 88SF.gif
-  category: Max Headroom
-  path: Max Headroom/88SF.gif
-  modified_time: 1596229503
-  tags:
-  - 88SF
-  - Max Headroom
-  - gif
-- title: 6cSh.gif
-  category: Max Headroom
-  path: Max Headroom/6cSh.gif
-  modified_time: 1596229484
-  tags:
-  - 6cSh
-  - Max Headroom
-  - gif
-- title: 2jX1.gif
-  category: Max Headroom
-  path: Max Headroom/2jX1.gif
-  modified_time: 1596229521
-  tags:
-  - 2jX1
-  - Max Headroom
-  - gif
-- title: tenor.gif
-  category: Salvador Dali
-  path: Salvador Dali/tenor.gif
-  modified_time: 1596143352
-  tags:
-  - Salvador Dali
-  - gif
-  - tenor
-- title: artcore.gif
-  category: Salvador Dali
-  path: Salvador Dali/artcore.gif
-  modified_time: 1596142981
-  tags:
-  - Salvador Dali
-  - artcore
-  - gif
-- title: salvador-dali.gif
-  category: Salvador Dali
-  path: Salvador Dali/salvador-dali.gif
-  modified_time: 1596142954
-  tags:
-  - Salvador Dali
-  - dali
-  - gif
-  - salvador
 - title: 7rL8.gif
   category: wut
   path: wut/7rL8.gif
@@ -115,488 +71,6 @@
   - gif
   - wut
   - 'yes'
-- title: woman_helmet.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/woman_helmet.gif
-  modified_time: 1596144160
-  tags:
-  - Bill Domonkos
-  - gif
-  - helmet
-  - woman
-- title: domonkos-5.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/domonkos-5.gif
-  modified_time: 1596144041
-  tags:
-  - '5'
-  - Bill Domonkos
-  - domonkos
-  - gif
-- title: bill_domonkos_07.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/bill_domonkos_07.gif
-  modified_time: 1596143970
-  tags:
-  - '07'
-  - Bill Domonkos
-  - bill
-  - domonkos
-  - gif
-- title: MiniatureHelplessAnura-small.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/MiniatureHelplessAnura-small.gif
-  modified_time: 1596144156
-  tags:
-  - Bill Domonkos
-  - MiniatureHelplessAnura
-  - gif
-  - small
-- title: GlisteningAgitatedKoodoo-small.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/GlisteningAgitatedKoodoo-small.gif
-  modified_time: 1596144020
-  tags:
-  - Bill Domonkos
-  - GlisteningAgitatedKoodoo
-  - gif
-  - small
-- title: man_soda_can.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/man_soda_can.gif
-  modified_time: 1596144080
-  tags:
-  - Bill Domonkos
-  - can
-  - gif
-  - man
-  - soda
-- title: unnamed.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/unnamed.gif
-  modified_time: 1596143979
-  tags:
-  - Bill Domonkos
-  - gif
-  - unnamed
-- title: source-1.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/source-1.gif
-  modified_time: 1596143997
-  tags:
-  - '1'
-  - Bill Domonkos
-  - gif
-  - source
-- title: source-3.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/source-3.gif
-  modified_time: 1596144189
-  tags:
-  - '3'
-  - Bill Domonkos
-  - gif
-  - source
-- title: tumblr_o4d3jhxsmc1qkdrkzo1_r1_1280.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/tumblr_o4d3jhxsmc1qkdrkzo1_r1_1280.gif
-  modified_time: 1596143938
-  tags:
-  - '1280'
-  - Bill Domonkos
-  - gif
-  - o4d3jhxsmc1qkdrkzo1
-  - r1
-  - tumblr
-- title: domonkos-1.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/domonkos-1.gif
-  modified_time: 1596143973
-  tags:
-  - '1'
-  - Bill Domonkos
-  - domonkos
-  - gif
-- title: source-2.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/source-2.gif
-  modified_time: 1596144102
-  tags:
-  - '2'
-  - Bill Domonkos
-  - gif
-  - source
-- title: bill_domonkos_02.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/bill_domonkos_02.gif
-  modified_time: 1596144117
-  tags:
-  - '02'
-  - Bill Domonkos
-  - bill
-  - domonkos
-  - gif
-- title: mystic.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/mystic.gif
-  modified_time: 1596143774
-  tags:
-  - Bill Domonkos
-  - gif
-  - mystic
-- title: Bill-Domonkos-oo.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/Bill-Domonkos-oo.gif
-  modified_time: 1596144174
-  tags:
-  - Bill
-  - Bill Domonkos
-  - Domonkos
-  - gif
-  - oo
-- title: unnamed-4.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/unnamed-4.gif
-  modified_time: 1596144196
-  tags:
-  - '4'
-  - Bill Domonkos
-  - gif
-  - unnamed
-- title: Domonokos_4.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/Domonokos_4.gif
-  modified_time: 1596144002
-  tags:
-  - '4'
-  - Bill Domonkos
-  - Domonokos
-  - gif
-- title: source.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/source.gif
-  modified_time: 1596143955
-  tags:
-  - Bill Domonkos
-  - gif
-  - source
-- title: Bill-Domonkos-GIFs-985632.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/Bill-Domonkos-GIFs-985632.gif
-  modified_time: 1596144140
-  tags:
-  - '985632'
-  - Bill
-  - Bill Domonkos
-  - Domonkos
-  - GIFs
-  - gif
-- title: DoracD2.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/DoracD2.gif
-  modified_time: 1596144207
-  tags:
-  - Bill Domonkos
-  - DoracD2
-  - gif
-- title: bill13.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/bill13.gif
-  modified_time: 1596144092
-  tags:
-  - Bill Domonkos
-  - bill13
-  - gif
-- title: Bill-Domonkos-Portrait-of-a-Girl.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/Bill-Domonkos-Portrait-of-a-Girl.gif
-  modified_time: 1596144099
-  tags:
-  - Bill
-  - Bill Domonkos
-  - Domonkos
-  - Girl
-  - Portrait
-  - a
-  - gif
-  - of
-- title: plate.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/plate.gif
-  modified_time: 1596143717
-  tags:
-  - Bill Domonkos
-  - gif
-  - plate
-- title: tumblr_nteou0Kw0O1qkdrkzo1_r1_500.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/tumblr_nteou0Kw0O1qkdrkzo1_r1_500.gif
-  modified_time: 1596144202
-  tags:
-  - '500'
-  - Bill Domonkos
-  - gif
-  - nteou0Kw0O1qkdrkzo1
-  - r1
-  - tumblr
-- title: unnamed-2.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/unnamed-2.gif
-  modified_time: 1596144075
-  tags:
-  - '2'
-  - Bill Domonkos
-  - gif
-  - unnamed
-- title: tumblr_o30v8gTGGD1qkdrkzo1_r1_1280.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/tumblr_o30v8gTGGD1qkdrkzo1_r1_1280.gif
-  modified_time: 1596144113
-  tags:
-  - '1280'
-  - Bill Domonkos
-  - gif
-  - o30v8gTGGD1qkdrkzo1
-  - r1
-  - tumblr
-- title: Domonokos_3.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/Domonokos_3.gif
-  modified_time: 1596144136
-  tags:
-  - '3'
-  - Bill Domonkos
-  - Domonokos
-  - gif
-- title: 28oi.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/28oi.gif
-  modified_time: 1596215183
-  tags:
-  - 28oi
-  - Bill Domonkos
-  - gif
-- title: tumblr_inline_mt33wapRbR1qj79oe540.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/tumblr_inline_mt33wapRbR1qj79oe540.gif
-  modified_time: 1596144131
-  tags:
-  - Bill Domonkos
-  - gif
-  - inline
-  - mt33wapRbR1qj79oe540
-  - tumblr
-- title: unnamed-3.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/unnamed-3.gif
-  modified_time: 1596144184
-  tags:
-  - '3'
-  - Bill Domonkos
-  - gif
-  - unnamed
-- title: unnamed-1.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/unnamed-1.gif
-  modified_time: 1596144069
-  tags:
-  - '1'
-  - Bill Domonkos
-  - gif
-  - unnamed
-- title: Domonokos_1.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/Domonokos_1.gif
-  modified_time: 1596144008
-  tags:
-  - '1'
-  - Bill Domonkos
-  - Domonokos
-  - gif
-- title: Bill-Domonkos-GIFs-596823.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/Bill-Domonkos-GIFs-596823.gif
-  modified_time: 1596144014
-  tags:
-  - '596823'
-  - Bill
-  - Bill Domonkos
-  - Domonkos
-  - GIFs
-  - gif
-- title: tumblr_mr1lbfoeH41qkdrkzo1_r1_400.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/tumblr_mr1lbfoeH41qkdrkzo1_r1_400.gif
-  modified_time: 1596143990
-  tags:
-  - '400'
-  - Bill Domonkos
-  - gif
-  - mr1lbfoeH41qkdrkzo1
-  - r1
-  - tumblr
-- title: d6e4bc5536b538612ac831684e35bcb3.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/d6e4bc5536b538612ac831684e35bcb3.gif
-  modified_time: 1596144121
-  tags:
-  - Bill Domonkos
-  - d6e4bc5536b538612ac831684e35bcb3
-  - gif
-- title: GlumIdleFugu-size_restricted.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/GlumIdleFugu-size_restricted.gif
-  modified_time: 1596143985
-  tags:
-  - Bill Domonkos
-  - GlumIdleFugu
-  - gif
-  - restricted
-  - size
-- title: 37fcc03823411400171b091692cea1b0.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/37fcc03823411400171b091692cea1b0.gif
-  modified_time: 1596144061
-  tags:
-  - 37fcc03823411400171b091692cea1b0
-  - Bill Domonkos
-  - gif
-- title: content_plain-magazine-domonkos-10.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/content_plain-magazine-domonkos-10.gif
-  modified_time: 1596144051
-  tags:
-  - '10'
-  - Bill Domonkos
-  - content
-  - domonkos
-  - gif
-  - magazine
-  - plain
-- title: '05898279e6199b06c0af7023b7e04d5b.gif'
-  category: Bill Domonkos
-  path: Bill Domonkos/05898279e6199b06c0af7023b7e04d5b.gif
-  modified_time: 1596144211
-  tags:
-  - '05898279e6199b06c0af7023b7e04d5b'
-  - Bill Domonkos
-  - gif
-- title: AridGlossyIberianmidwifetoad-small.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/AridGlossyIberianmidwifetoad-small.gif
-  modified_time: 1596144216
-  tags:
-  - AridGlossyIberianmidwifetoad
-  - Bill Domonkos
-  - gif
-  - small
-- title: tumblr_55f9c693c0669fa270dcbdde8dab3ca9_d0eb2258_500.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/tumblr_55f9c693c0669fa270dcbdde8dab3ca9_d0eb2258_500.gif
-  modified_time: 1596144144
-  tags:
-  - '500'
-  - 55f9c693c0669fa270dcbdde8dab3ca9
-  - Bill Domonkos
-  - d0eb2258
-  - gif
-  - tumblr
-- title: content_plain-magazine-domonkos-01.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/content_plain-magazine-domonkos-01.gif
-  modified_time: 1596143964
-  tags:
-  - '01'
-  - Bill Domonkos
-  - content
-  - domonkos
-  - gif
-  - magazine
-  - plain
-- title: Domonokos_1-1.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/Domonokos_1-1.gif
-  modified_time: 1596144030
-  tags:
-  - '1'
-  - Bill Domonkos
-  - Domonokos
-  - gif
-- title: ERis.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/ERis.gif
-  modified_time: 1596144056
-  tags:
-  - Bill Domonkos
-  - ERis
-  - gif
-- title: 0fdb51ff3c163d588f100950b5b3c58c.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/0fdb51ff3c163d588f100950b5b3c58c.gif
-  modified_time: 1596144152
-  tags:
-  - 0fdb51ff3c163d588f100950b5b3c58c
-  - Bill Domonkos
-  - gif
-- title: woman_with_hand.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/woman_with_hand.gif
-  modified_time: 1596144038
-  tags:
-  - Bill Domonkos
-  - gif
-  - hand
-  - with
-  - woman
-- title: bill_domonkos_08.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/bill_domonkos_08.gif
-  modified_time: 1596144046
-  tags:
-  - '08'
-  - Bill Domonkos
-  - bill
-  - domonkos
-  - gif
-- title: ClearcutImaginativeAfricanmolesnake-small.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/ClearcutImaginativeAfricanmolesnake-small.gif
-  modified_time: 1596143993
-  tags:
-  - Bill Domonkos
-  - ClearcutImaginativeAfricanmolesnake
-  - gif
-  - small
-- title: krChs-GKy5d49A7ykFxZ_1082129633.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/krChs-GKy5d49A7ykFxZ_1082129633.gif
-  modified_time: 1596144126
-  tags:
-  - '1082129633'
-  - Bill Domonkos
-  - GKy5d49A7ykFxZ
-  - gif
-  - krChs
-- title: domonkos-8.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/domonkos-8.gif
-  modified_time: 1596144221
-  tags:
-  - '8'
-  - Bill Domonkos
-  - domonkos
-  - gif
-- title: tumblr_moahstZUf11qkdrkzo1_r2_500.gif
-  category: Bill Domonkos
-  path: Bill Domonkos/tumblr_moahstZUf11qkdrkzo1_r2_500.gif
-  modified_time: 1596144086
-  tags:
-  - '500'
-  - Bill Domonkos
-  - gif
-  - moahstZUf11qkdrkzo1
-  - r2
-  - tumblr
 - title: source-4.gif
   category: Brazil
   path: Brazil/source-4.gif
@@ -801,27 +275,30 @@
   - Portal
   - gif
 - title: holy.gif
-  category: Alejandro Jodorowsky
-  path: Alejandro Jodorowsky/holy.gif
+  category: Alejandro-Jodorowsky
+  path: Alejandro-Jodorowsky/holy.gif
   modified_time: 1596143527
   tags:
-  - Alejandro Jodorowsky
+  - Alejandro
+  - Jodorowsky
   - gif
   - holy
 - title: endless.gif
-  category: Alejandro Jodorowsky
-  path: Alejandro Jodorowsky/endless.gif
+  category: Alejandro-Jodorowsky
+  path: Alejandro-Jodorowsky/endless.gif
   modified_time: 1596141956
   tags:
-  - Alejandro Jodorowsky
+  - Alejandro
+  - Jodorowsky
   - endless
   - gif
 - title: endlesspoetry-alejandro-jodorowsky-endless-poetry.gif
-  category: Alejandro Jodorowsky
-  path: Alejandro Jodorowsky/endlesspoetry-alejandro-jodorowsky-endless-poetry.gif
+  category: Alejandro-Jodorowsky
+  path: Alejandro-Jodorowsky/endlesspoetry-alejandro-jodorowsky-endless-poetry.gif
   modified_time: 1596141873
   tags:
-  - Alejandro Jodorowsky
+  - Alejandro
+  - Jodorowsky
   - alejandro
   - endless
   - endlesspoetry
@@ -829,484 +306,167 @@
   - jodorowsky
   - poetry
 - title: spin.gif
-  category: Alejandro Jodorowsky
-  path: Alejandro Jodorowsky/spin.gif
+  category: Alejandro-Jodorowsky
+  path: Alejandro-Jodorowsky/spin.gif
   modified_time: 1596143575
   tags:
-  - Alejandro Jodorowsky
+  - Alejandro
+  - Jodorowsky
   - gif
   - spin
 - title: the-holy-mountain.gif
-  category: Alejandro Jodorowsky
-  path: Alejandro Jodorowsky/the-holy-mountain.gif
+  category: Alejandro-Jodorowsky
+  path: Alejandro-Jodorowsky/the-holy-mountain.gif
   modified_time: 1596141916
   tags:
-  - Alejandro Jodorowsky
+  - Alejandro
+  - Jodorowsky
   - gif
   - holy
   - mountain
   - the
 - title: endless-poetry.gif
-  category: Alejandro Jodorowsky
-  path: Alejandro Jodorowsky/endless-poetry.gif
+  category: Alejandro-Jodorowsky
+  path: Alejandro-Jodorowsky/endless-poetry.gif
   modified_time: 1596141821
   tags:
-  - Alejandro Jodorowsky
+  - Alejandro
+  - Jodorowsky
   - endless
   - gif
   - poetry
 - title: is this life reality.gif
-  category: Alejandro Jodorowsky
-  path: Alejandro Jodorowsky/is this life reality.gif
+  category: Alejandro-Jodorowsky
+  path: Alejandro-Jodorowsky/is this life reality.gif
   modified_time: 1596142140
   tags:
-  - Alejandro Jodorowsky
+  - Alejandro
+  - Jodorowsky
   - gif
   - is this life reality
 - title: the-holy mountain.gif
-  category: Alejandro Jodorowsky
-  path: Alejandro Jodorowsky/the-holy mountain.gif
+  category: Alejandro-Jodorowsky
+  path: Alejandro-Jodorowsky/the-holy mountain.gif
   modified_time: 1596143589
   tags:
-  - Alejandro Jodorowsky
+  - Alejandro
+  - Jodorowsky
   - gif
   - holy mountain
   - the
 - title: butterfly.gif
-  category: Alejandro Jodorowsky
-  path: Alejandro Jodorowsky/butterfly.gif
+  category: Alejandro-Jodorowsky
+  path: Alejandro-Jodorowsky/butterfly.gif
   modified_time: 1596143620
   tags:
-  - Alejandro Jodorowsky
+  - Alejandro
+  - Jodorowsky
   - butterfly
   - gif
+- title: laser-vision.gif
+  category: Dali-Llama
+  path: Dali-Llama/laser-vision.gif
+  modified_time: 1596143404
+  tags:
+  - Dali
+  - Llama
+  - gif
+  - laser
+  - vision
 - title: tumblr_n5wl74EdqX1qedb29o1_400.gif
-  category: City of Lost Children
-  path: City of Lost Children/tumblr_n5wl74EdqX1qedb29o1_400.gif
+  category: City-of-Lost-Children
+  path: City-of-Lost-Children/tumblr_n5wl74EdqX1qedb29o1_400.gif
   modified_time: 1596230558
   tags:
   - '400'
-  - City of Lost Children
+  - Children
+  - City
+  - Lost
   - gif
   - n5wl74EdqX1qedb29o1
+  - of
   - tumblr
 - title: IlJ4.gif
-  category: City of Lost Children
-  path: City of Lost Children/IlJ4.gif
+  category: City-of-Lost-Children
+  path: City-of-Lost-Children/IlJ4.gif
   modified_time: 1596230561
   tags:
-  - City of Lost Children
+  - Children
+  - City
   - IlJ4
+  - Lost
   - gif
+  - of
 - title: giphy.gif
-  category: City of Lost Children
-  path: City of Lost Children/giphy.gif
+  category: City-of-Lost-Children
+  path: City-of-Lost-Children/giphy.gif
   modified_time: 1596230608
   tags:
-  - City of Lost Children
+  - Children
+  - City
+  - Lost
   - gif
   - giphy
+  - of
 - title: tumblr_ma5tkpjnJN1rthmb0o1_500.gif
-  category: City of Lost Children
-  path: City of Lost Children/tumblr_ma5tkpjnJN1rthmb0o1_500.gif
+  category: City-of-Lost-Children
+  path: City-of-Lost-Children/tumblr_ma5tkpjnJN1rthmb0o1_500.gif
   modified_time: 1596230543
   tags:
   - '500'
-  - City of Lost Children
+  - Children
+  - City
+  - Lost
   - gif
   - ma5tkpjnJN1rthmb0o1
+  - of
   - tumblr
 - title: NFRK.gif
-  category: City of Lost Children
-  path: City of Lost Children/NFRK.gif
+  category: City-of-Lost-Children
+  path: City-of-Lost-Children/NFRK.gif
   modified_time: 1596230582
   tags:
-  - City of Lost Children
+  - Children
+  - City
+  - Lost
   - NFRK
   - gif
+  - of
 - title: 7e3d3a150a0d594c24d001bb36f2d450.gif
-  category: City of Lost Children
-  path: City of Lost Children/7e3d3a150a0d594c24d001bb36f2d450.gif
+  category: City-of-Lost-Children
+  path: City-of-Lost-Children/7e3d3a150a0d594c24d001bb36f2d450.gif
   modified_time: 1596230595
   tags:
   - 7e3d3a150a0d594c24d001bb36f2d450
-  - City of Lost Children
+  - Children
+  - City
+  - Lost
   - gif
+  - of
 - title: tumblr_mfk7s0Kadp1qedb29o1_500.gif
-  category: City of Lost Children
-  path: City of Lost Children/tumblr_mfk7s0Kadp1qedb29o1_500.gif
+  category: City-of-Lost-Children
+  path: City-of-Lost-Children/tumblr_mfk7s0Kadp1qedb29o1_500.gif
   modified_time: 1596230588
   tags:
   - '500'
-  - City of Lost Children
+  - Children
+  - City
+  - Lost
   - gif
   - mfk7s0Kadp1qedb29o1
+  - of
   - tumblr
 - title: b0fbe4d6e1732ca1efe544fb58eb8e69.gif
-  category: City of Lost Children
-  path: City of Lost Children/b0fbe4d6e1732ca1efe544fb58eb8e69.gif
+  category: City-of-Lost-Children
+  path: City-of-Lost-Children/b0fbe4d6e1732ca1efe544fb58eb8e69.gif
   modified_time: 1596230612
   tags:
-  - City of Lost Children
+  - Children
+  - City
+  - Lost
   - b0fbe4d6e1732ca1efe544fb58eb8e69
   - gif
-- title: weird.gif
-  category: Dirk Monteny
-  path: Dirk Monteny/weird.gif
-  modified_time: 1596168278
-  tags:
-  - Dirk Monteny
-  - gif
-  - weird
-- title: GentleDelectableJaeger-size_restricted.gif
-  category: Manifold Garden
-  path: Manifold Garden/GentleDelectableJaeger-size_restricted.gif
-  modified_time: 1596168396
-  tags:
-  - GentleDelectableJaeger
-  - Manifold Garden
-  - gif
-  - restricted
-  - size
-- title: Manifold_Garden_-_World_026_Library_Looping_Hi-Res2.gif
-  category: Manifold Garden
-  path: Manifold Garden/Manifold_Garden_-_World_026_Library_Looping_Hi-Res2.gif
-  modified_time: 1596168421
-  tags:
-  - ''
-  - '026'
-  - Garden
-  - Hi
-  - Library
-  - Looping
-  - Manifold
-  - Manifold Garden
-  - Res2
-  - World
-  - gif
-- title: Manifold_Garden_-_World_021_Matrix_Looping_Hi-Res.gif
-  category: Manifold Garden
-  path: Manifold Garden/Manifold_Garden_-_World_021_Matrix_Looping_Hi-Res.gif
-  modified_time: 1596168406
-  tags:
-  - ''
-  - '021'
-  - Garden
-  - Hi
-  - Looping
-  - Manifold
-  - Manifold Garden
-  - Matrix
-  - Res
-  - World
-  - gif
-- title: world_19_web.gif
-  category: Manifold Garden
-  path: Manifold Garden/world_19_web.gif
-  modified_time: 1596168451
-  tags:
-  - '19'
-  - Manifold Garden
-  - gif
-  - web
-  - world
-- title: asfgwlkebgn.gif
-  category: Manifold Garden
-  path: Manifold Garden/asfgwlkebgn.gif
-  modified_time: 1596168463
-  tags:
-  - Manifold Garden
-  - asfgwlkebgn
-  - gif
-- title: CKQknm.gif
-  category: Manifold Garden
-  path: Manifold Garden/CKQknm.gif
-  modified_time: 1596168471
-  tags:
-  - CKQknm
-  - Manifold Garden
-  - gif
-- title: dancing.gif
-  category: Big Lebowski
-  path: Big Lebowski/dancing.gif
-  modified_time: 1596127408
-  tags:
-  - Big Lebowski
-  - dancing
-  - gif
-- title: polish-my-ball.gif
-  category: Big Lebowski
-  path: Big Lebowski/polish-my-ball.gif
-  modified_time: 1596127408
-  tags:
-  - Big Lebowski
-  - ball
-  - gif
-  - my
-  - polish
-- title: ashes-toss.gif
-  category: Big Lebowski
-  path: Big Lebowski/ashes-toss.gif
-  modified_time: 1596127408
-  tags:
-  - Big Lebowski
-  - ashes
-  - gif
-  - toss
-- title: what.gif
-  category: Big Lebowski
-  path: Big Lebowski/what.gif
-  modified_time: 1596127408
-  tags:
-  - Big Lebowski
-  - gif
-  - what
-- title: no-huh-uh.gif
-  category: Big Lebowski
-  path: Big Lebowski/no-huh-uh.gif
-  modified_time: 1596127408
-  tags:
-  - Big Lebowski
-  - gif
-  - huh
-  - 'no'
-  - uh
-- title: oh-alright.gif
-  category: Big Lebowski
-  path: Big Lebowski/oh-alright.gif
-  modified_time: 1596127408
-  tags:
-  - Big Lebowski
-  - alright
-  - gif
-  - oh
-- title: stoned.gif
-  category: Big Lebowski
-  path: Big Lebowski/stoned.gif
-  modified_time: 1596127408
-  tags:
-  - Big Lebowski
-  - gif
-  - stoned
-- title: gun.gif
-  category: Big Lebowski
-  path: Big Lebowski/gun.gif
-  modified_time: 1596127408
-  tags:
-  - Big Lebowski
-  - gif
-  - gun
-- title: tumblr_nfwl9jt8mS1qbdir4o1_400.gif
-  category: Sholim Milos Rajkovic
-  path: Sholim Milos Rajkovic/tumblr_nfwl9jt8mS1qbdir4o1_400.gif
-  modified_time: 1596228032
-  tags:
-  - '400'
-  - Sholim Milos Rajkovic
-  - gif
-  - nfwl9jt8mS1qbdir4o1
-  - tumblr
-- title: SparklingVerifiableFox-size_restricted.gif
-  category: Sholim Milos Rajkovic
-  path: Sholim Milos Rajkovic/SparklingVerifiableFox-size_restricted.gif
-  modified_time: 1596228036
-  tags:
-  - Sholim Milos Rajkovic
-  - SparklingVerifiableFox
-  - gif
-  - restricted
-  - size
-- title: 14860484388_by_Sholim.gif
-  category: Sholim Milos Rajkovic
-  path: Sholim Milos Rajkovic/14860484388_by_Sholim.gif
-  modified_time: 1596227973
-  tags:
-  - '14860484388'
-  - Sholim
-  - Sholim Milos Rajkovic
-  - by
-  - gif
-- title: Sholim Milos Rajkovic.gif
-  category: Sholim Milos Rajkovic
-  path: Sholim Milos Rajkovic/Sholim Milos Rajkovic.gif
-  modified_time: 1596227985
-  tags:
-  - Sholim Milos Rajkovic
-  - gif
-- title: ReactionDiffusion.gif
-  category: Adam Pizurny
-  path: Adam Pizurny/ReactionDiffusion.gif
-  modified_time: 1596158650
-  tags:
-  - Adam Pizurny
-  - ReactionDiffusion
-  - gif
-- title: giphy-2.gif
-  category: Adam Pizurny
-  path: Adam Pizurny/giphy-2.gif
-  modified_time: 1596158449
-  tags:
-  - '2'
-  - Adam Pizurny
-  - gif
-  - giphy
-- title: giphy-3.gif
-  category: Adam Pizurny
-  path: Adam Pizurny/giphy-3.gif
-  modified_time: 1596158454
-  tags:
-  - '3'
-  - Adam Pizurny
-  - gif
-  - giphy
-- title: giphy-1.gif
-  category: Adam Pizurny
-  path: Adam Pizurny/giphy-1.gif
-  modified_time: 1596158438
-  tags:
-  - '1'
-  - Adam Pizurny
-  - gif
-  - giphy
-- title: giphy-4.gif
-  category: Adam Pizurny
-  path: Adam Pizurny/giphy-4.gif
-  modified_time: 1596158463
-  tags:
-  - '4'
-  - Adam Pizurny
-  - gif
-  - giphy
-- title: giphy-12.gif
-  category: Adam Pizurny
-  path: Adam Pizurny/giphy-12.gif
-  modified_time: 1596158605
-  tags:
-  - '12'
-  - Adam Pizurny
-  - gif
-  - giphy
-- title: giphy-13.gif
-  category: Adam Pizurny
-  path: Adam Pizurny/giphy-13.gif
-  modified_time: 1596158624
-  tags:
-  - '13'
-  - Adam Pizurny
-  - gif
-  - giphy
-- title: giphy-5.gif
-  category: Adam Pizurny
-  path: Adam Pizurny/giphy-5.gif
-  modified_time: 1596158479
-  tags:
-  - '5'
-  - Adam Pizurny
-  - gif
-  - giphy
-- title: giphy-7.gif
-  category: Adam Pizurny
-  path: Adam Pizurny/giphy-7.gif
-  modified_time: 1596158508
-  tags:
-  - '7'
-  - Adam Pizurny
-  - gif
-  - giphy
-- title: giphy-11.gif
-  category: Adam Pizurny
-  path: Adam Pizurny/giphy-11.gif
-  modified_time: 1596158588
-  tags:
-  - '11'
-  - Adam Pizurny
-  - gif
-  - giphy
-- title: giphy.gif
-  category: Adam Pizurny
-  path: Adam Pizurny/giphy.gif
-  modified_time: 1596158425
-  tags:
-  - Adam Pizurny
-  - gif
-  - giphy
-- title: giphy-10.gif
-  category: Adam Pizurny
-  path: Adam Pizurny/giphy-10.gif
-  modified_time: 1596158556
-  tags:
-  - '10'
-  - Adam Pizurny
-  - gif
-  - giphy
-- title: giphy-6.gif
-  category: Adam Pizurny
-  path: Adam Pizurny/giphy-6.gif
-  modified_time: 1596158501
-  tags:
-  - '6'
-  - Adam Pizurny
-  - gif
-  - giphy
-- title: giphy-8.gif
-  category: Adam Pizurny
-  path: Adam Pizurny/giphy-8.gif
-  modified_time: 1596158531
-  tags:
-  - '8'
-  - Adam Pizurny
-  - gif
-  - giphy
-- title: giphy-9.gif
-  category: Adam Pizurny
-  path: Adam Pizurny/giphy-9.gif
-  modified_time: 1596158542
-  tags:
-  - '9'
-  - Adam Pizurny
-  - gif
-  - giphy
-- title: Blender Recursion.gif
-  category: Adam Pizurny
-  path: Adam Pizurny/Blender Recursion.gif
-  modified_time: 1596158570
-  tags:
-  - Adam Pizurny
-  - Blender Recursion
-  - gif
-- title: run.gif
-  category: Colin Raff
-  path: Colin Raff/run.gif
-  modified_time: 1596215212
-  tags:
-  - Colin Raff
-  - gif
-  - run
-- title: fight.gif
-  category: Colin Raff
-  path: Colin Raff/fight.gif
-  modified_time: 1596215190
-  tags:
-  - Colin Raff
-  - fight
-  - gif
-- title: dance.gif
-  category: Colin Raff
-  path: Colin Raff/dance.gif
-  modified_time: 1596215200
-  tags:
-  - Colin Raff
-  - dance
-  - gif
-- title: dance-2.gif
-  category: Colin Raff
-  path: Colin Raff/dance-2.gif
-  modified_time: 1596215208
-  tags:
-  - '2'
-  - Colin Raff
-  - dance
-  - gif
+  - of
 - title: Loop Sky.gif
   category: kidmograph
   path: kidmograph/Loop Sky.gif
@@ -1374,6 +534,246 @@
   - gif
   - to
   - want
+- title: rabbit.gif
+  category: Donny-Darko
+  path: Donny-Darko/rabbit.gif
+  modified_time: 1596202845
+  tags:
+  - Darko
+  - Donny
+  - gif
+  - rabbit
+- title: future.gif
+  category: Donny-Darko
+  path: Donny-Darko/future.gif
+  modified_time: 1596202845
+  tags:
+  - Darko
+  - Donny
+  - future
+  - gif
+- title: tumblr_mhv9q2qSyF1qg39ewo1_500.gif
+  category: Fantastic-planet
+  path: Fantastic-planet/tumblr_mhv9q2qSyF1qg39ewo1_500.gif
+  modified_time: 1596229083
+  tags:
+  - '500'
+  - Fantastic
+  - gif
+  - mhv9q2qSyF1qg39ewo1
+  - planet
+  - tumblr
+- title: twOF97k.gif
+  category: Fantastic-planet
+  path: Fantastic-planet/twOF97k.gif
+  modified_time: 1596228980
+  tags:
+  - Fantastic
+  - gif
+  - planet
+  - twOF97k
+- title: source-1.gif
+  category: Fantastic-planet
+  path: Fantastic-planet/source-1.gif
+  modified_time: 1596228935
+  tags:
+  - '1'
+  - Fantastic
+  - gif
+  - planet
+  - source
+- title: 500full-fantastic-planet-screenshot.jpg.gif
+  category: Fantastic-planet
+  path: Fantastic-planet/500full-fantastic-planet-screenshot.jpg.gif
+  modified_time: 1596229035
+  tags:
+  - 500full
+  - Fantastic
+  - fantastic
+  - gif
+  - jpg
+  - planet
+  - screenshot
+- title: source-3.gif
+  category: Fantastic-planet
+  path: Fantastic-planet/source-3.gif
+  modified_time: 1596229093
+  tags:
+  - '3'
+  - Fantastic
+  - gif
+  - planet
+  - source
+- title: source-2.gif
+  category: Fantastic-planet
+  path: Fantastic-planet/source-2.gif
+  modified_time: 1596228962
+  tags:
+  - '2'
+  - Fantastic
+  - gif
+  - planet
+  - source
+- title: e13b9895240858d8973aa906be34457d.gif
+  category: Fantastic-planet
+  path: Fantastic-planet/e13b9895240858d8973aa906be34457d.gif
+  modified_time: 1596228940
+  tags:
+  - Fantastic
+  - e13b9895240858d8973aa906be34457d
+  - gif
+  - planet
+- title: source.gif
+  category: Fantastic-planet
+  path: Fantastic-planet/source.gif
+  modified_time: 1596228917
+  tags:
+  - Fantastic
+  - gif
+  - planet
+  - source
+- title: tumblr_nucdejfKFj1qc3ju8o8_540.gif
+  category: Fantastic-planet
+  path: Fantastic-planet/tumblr_nucdejfKFj1qc3ju8o8_540.gif
+  modified_time: 1596229026
+  tags:
+  - '540'
+  - Fantastic
+  - gif
+  - nucdejfKFj1qc3ju8o8
+  - planet
+  - tumblr
+- title: tumblr_mhv9ormOMX1qg39ewo1_500.gif
+  category: Fantastic-planet
+  path: Fantastic-planet/tumblr_mhv9ormOMX1qg39ewo1_500.gif
+  modified_time: 1596228967
+  tags:
+  - '500'
+  - Fantastic
+  - gif
+  - mhv9ormOMX1qg39ewo1
+  - planet
+  - tumblr
+- title: c8951320ca6755611983500ea12a1d3d.gif
+  category: Fantastic-planet
+  path: Fantastic-planet/c8951320ca6755611983500ea12a1d3d.gif
+  modified_time: 1596228999
+  tags:
+  - Fantastic
+  - c8951320ca6755611983500ea12a1d3d
+  - gif
+  - planet
+- title: tumblr_nucdejfKFj1qc3ju8o9_540.gif
+  category: Fantastic-planet
+  path: Fantastic-planet/tumblr_nucdejfKFj1qc3ju8o9_540.gif
+  modified_time: 1596229103
+  tags:
+  - '540'
+  - Fantastic
+  - gif
+  - nucdejfKFj1qc3ju8o9
+  - planet
+  - tumblr
+- title: giphy.gif
+  category: Fantastic-planet
+  path: Fantastic-planet/giphy.gif
+  modified_time: 1596228954
+  tags:
+  - Fantastic
+  - gif
+  - giphy
+  - planet
+- title: tumblr_nucdejfKFj1qc3ju8o5_540.gif
+  category: Fantastic-planet
+  path: Fantastic-planet/tumblr_nucdejfKFj1qc3ju8o5_540.gif
+  modified_time: 1596229006
+  tags:
+  - '540'
+  - Fantastic
+  - gif
+  - nucdejfKFj1qc3ju8o5
+  - planet
+  - tumblr
+- title: tumblr_nl0muaYp331qc3ju8o1_540.gif
+  category: Fantastic-planet
+  path: Fantastic-planet/tumblr_nl0muaYp331qc3ju8o1_540.gif
+  modified_time: 1596229012
+  tags:
+  - '540'
+  - Fantastic
+  - gif
+  - nl0muaYp331qc3ju8o1
+  - planet
+  - tumblr
+- title: b86b725c6dbba3bb28b3e642333a2378.gif
+  category: Fantastic-planet
+  path: Fantastic-planet/b86b725c6dbba3bb28b3e642333a2378.gif
+  modified_time: 1596228926
+  tags:
+  - Fantastic
+  - b86b725c6dbba3bb28b3e642333a2378
+  - gif
+  - planet
+- title: hapGGWa.gif
+  category: Fantastic-planet
+  path: Fantastic-planet/hapGGWa.gif
+  modified_time: 1596229071
+  tags:
+  - Fantastic
+  - gif
+  - hapGGWa
+  - planet
+- title: tumblr_m9lmvztzvy1qamyzxo1_500.gif
+  category: Fantastic-planet
+  path: Fantastic-planet/tumblr_m9lmvztzvy1qamyzxo1_500.gif
+  modified_time: 1596229040
+  tags:
+  - '500'
+  - Fantastic
+  - gif
+  - m9lmvztzvy1qamyzxo1
+  - planet
+  - tumblr
+- title: tumblr_nl0muaYp331qc3ju8o2_540.gif
+  category: Fantastic-planet
+  path: Fantastic-planet/tumblr_nl0muaYp331qc3ju8o2_540.gif
+  modified_time: 1596229064
+  tags:
+  - '540'
+  - Fantastic
+  - gif
+  - nl0muaYp331qc3ju8o2
+  - planet
+  - tumblr
+- title: tumblr_nucdejfKFj1qc3ju8o6_540.gif
+  category: Fantastic-planet
+  path: Fantastic-planet/tumblr_nucdejfKFj1qc3ju8o6_540.gif
+  modified_time: 1596229138
+  tags:
+  - '540'
+  - Fantastic
+  - gif
+  - nucdejfKFj1qc3ju8o6
+  - planet
+  - tumblr
+- title: s7MPhbv.gif
+  category: Fantastic-planet
+  path: Fantastic-planet/s7MPhbv.gif
+  modified_time: 1596229047
+  tags:
+  - Fantastic
+  - gif
+  - planet
+  - s7MPhbv
+- title: 10fe2fdb58671de2385f90e569e48d292e1f6674aae7765c673b6e7041f5c8d8.gif
+  category: Fantastic-planet
+  path: Fantastic-planet/10fe2fdb58671de2385f90e569e48d292e1f6674aae7765c673b6e7041f5c8d8.gif
+  modified_time: 1596228993
+  tags:
+  - 10fe2fdb58671de2385f90e569e48d292e1f6674aae7765c673b6e7041f5c8d8
+  - Fantastic
+  - gif
+  - planet
 - title: cloclstairs.gif
   category: Stefan Krische
   path: Stefan Krische/cloclstairs.gif
@@ -1522,89 +922,6 @@
   - backwards
   - forwards
   - gif
-- title: rabbit.gif
-  category: Donny Darko
-  path: Donny Darko/rabbit.gif
-  modified_time: 1596202845
-  tags:
-  - Donny Darko
-  - gif
-  - rabbit
-- title: future.gif
-  category: Donny Darko
-  path: Donny Darko/future.gif
-  modified_time: 1596202845
-  tags:
-  - Donny Darko
-  - future
-  - gif
-- title: maze.gif
-  category: Vapor Wave
-  path: Vapor Wave/maze.gif
-  modified_time: 1596127418
-  tags:
-  - Vapor Wave
-  - gif
-  - maze
-- title: vapor-bae.gif
-  category: Vapor Wave
-  path: Vapor Wave/vapor-bae.gif
-  modified_time: 1596127418
-  tags:
-  - Vapor Wave
-  - bae
-  - gif
-  - vapor
-- title: computer.gif
-  category: Vapor Wave
-  path: Vapor Wave/computer.gif
-  modified_time: 1596127418
-  tags:
-  - Vapor Wave
-  - computer
-  - gif
-- title: easter-island.gif
-  category: Vapor Wave
-  path: Vapor Wave/easter-island.gif
-  modified_time: 1596127418
-  tags:
-  - Vapor Wave
-  - easter
-  - gif
-  - island
-- title: gem.gif
-  category: Vapor Wave
-  path: Vapor Wave/gem.gif
-  modified_time: 1596127418
-  tags:
-  - Vapor Wave
-  - gem
-  - gif
-- title: sunset.gif
-  category: Vapor Wave
-  path: Vapor Wave/sunset.gif
-  modified_time: 1596127418
-  tags:
-  - Vapor Wave
-  - gif
-  - sunset
-- title: triangle.gif
-  category: Vapor Wave
-  path: Vapor Wave/triangle.gif
-  modified_time: 1596214813
-  tags:
-  - Vapor Wave
-  - gif
-  - triangle
-- title: laser-vision.gif
-  category: Dali Llama
-  path: Dali Llama/laser-vision.gif
-  modified_time: 1596143404
-  tags:
-  - Dali Llama
-  - gif
-  - laser
-  - vision
 - title: tumblr_orjjbwXH7r1r2geqjo1_540.gif
   category: beesandbombs
   path: beesandbombs/tumblr_orjjbwXH7r1r2geqjo1_540.gif
@@ -2402,125 +1719,152 @@
   - gif
   - nax636ZhCx1rte5gyo3
   - tumblr
-- title: hello-grandfather.gif
-  category: David Lynch
-  path: David Lynch/hello-grandfather.gif
-  modified_time: 1596143269
+- title: GentleDelectableJaeger-size_restricted.gif
+  category: Manifold-Garden
+  path: Manifold-Garden/GentleDelectableJaeger-size_restricted.gif
+  modified_time: 1596168396
   tags:
-  - David Lynch
+  - Garden
+  - GentleDelectableJaeger
+  - Manifold
   - gif
-  - grandfather
-  - hello
-- title: eraser-head.gif
-  category: David Lynch
-  path: David Lynch/eraser-head.gif
-  modified_time: 1596142193
+  - restricted
+  - size
+- title: Manifold_Garden_-_World_026_Library_Looping_Hi-Res2.gif
+  category: Manifold-Garden
+  path: Manifold-Garden/Manifold_Garden_-_World_026_Library_Looping_Hi-Res2.gif
+  modified_time: 1596168421
   tags:
-  - David Lynch
-  - eraser
+  - ''
+  - '026'
+  - Garden
+  - Hi
+  - Library
+  - Looping
+  - Manifold
+  - Res2
+  - World
   - gif
-  - head
-- title: cool.gif
-  category: David Lynch
-  path: David Lynch/cool.gif
-  modified_time: 1596143094
+- title: Manifold_Garden_-_World_021_Matrix_Looping_Hi-Res.gif
+  category: Manifold-Garden
+  path: Manifold-Garden/Manifold_Garden_-_World_021_Matrix_Looping_Hi-Res.gif
+  modified_time: 1596168406
   tags:
-  - David Lynch
-  - cool
+  - ''
+  - '021'
+  - Garden
+  - Hi
+  - Looping
+  - Manifold
+  - Matrix
+  - Res
+  - World
   - gif
-- title: poor-leo.gif
-  category: David Lynch
-  path: David Lynch/poor-leo.gif
-  modified_time: 1596143071
+- title: world_19_web.gif
+  category: Manifold-Garden
+  path: Manifold-Garden/world_19_web.gif
+  modified_time: 1596168451
   tags:
-  - David Lynch
+  - '19'
+  - Garden
+  - Manifold
   - gif
-  - leo
-  - poor
-- title: lynch.gif
-  category: David Lynch
-  path: David Lynch/lynch.gif
-  modified_time: 1596143139
+  - web
+  - world
+- title: asfgwlkebgn.gif
+  category: Manifold-Garden
+  path: Manifold-Garden/asfgwlkebgn.gif
+  modified_time: 1596168463
   tags:
-  - David Lynch
+  - Garden
+  - Manifold
+  - asfgwlkebgn
   - gif
-  - lynch
-- title: wishes.gif
-  category: David Lynch
-  path: David Lynch/wishes.gif
-  modified_time: 1596143202
+- title: CKQknm.gif
+  category: Manifold-Garden
+  path: Manifold-Garden/CKQknm.gif
+  modified_time: 1596168471
   tags:
-  - David Lynch
+  - CKQknm
+  - Garden
+  - Manifold
   - gif
-  - wishes
-- title: donut.gif
-  category: David Lynch
-  path: David Lynch/donut.gif
-  modified_time: 1596143117
+- title: maze.gif
+  category: Vapor-Wave
+  path: Vapor-Wave/maze.gif
+  modified_time: 1596127418
   tags:
-  - David Lynch
-  - donut
+  - Vapor
+  - Wave
   - gif
-- title: fucking-phone.gif
-  category: David Lynch
-  path: David Lynch/fucking-phone.gif
-  modified_time: 1596143164
+  - maze
+- title: vapor-bae.gif
+  category: Vapor-Wave
+  path: Vapor-Wave/vapor-bae.gif
+  modified_time: 1596127418
   tags:
-  - David Lynch
-  - fucking
+  - Vapor
+  - Wave
+  - bae
   - gif
-  - phone
-- title: palmer.gif
-  category: David Lynch
-  path: David Lynch/palmer.gif
-  modified_time: 1596143248
+  - vapor
+- title: computer.gif
+  category: Vapor-Wave
+  path: Vapor-Wave/computer.gif
+  modified_time: 1596127418
   tags:
-  - David Lynch
+  - Vapor
+  - Wave
+  - computer
   - gif
-  - palmer
-- title: leo-johnson.gif
-  category: David Lynch
-  path: David Lynch/leo-johnson.gif
-  modified_time: 1596143059
+- title: easter-island.gif
+  category: Vapor-Wave
+  path: Vapor-Wave/easter-island.gif
+  modified_time: 1596127418
   tags:
-  - David Lynch
+  - Vapor
+  - Wave
+  - easter
   - gif
-  - johnson
-  - leo
-- title: heineken.gif
-  category: David Lynch
-  path: David Lynch/heineken.gif
-  modified_time: 1596143187
+  - island
+- title: gem.gif
+  category: Vapor-Wave
+  path: Vapor-Wave/gem.gif
+  modified_time: 1596127418
   tags:
-  - David Lynch
+  - Vapor
+  - Wave
+  - gem
   - gif
-  - heineken
-- title: empire.gif
-  category: David Lynch
-  path: David Lynch/empire.gif
-  modified_time: 1596143229
+- title: sunset.gif
+  category: Vapor-Wave
+  path: Vapor-Wave/sunset.gif
+  modified_time: 1596127418
   tags:
-  - David Lynch
-  - empire
+  - Vapor
+  - Wave
   - gif
-- title: damn.gif
-  category: David Lynch
-  path: David Lynch/damn.gif
-  modified_time: 1596143042
+  - sunset
+- title: triangle.gif
+  category: Vapor-Wave
+  path: Vapor-Wave/triangle.gif
+  modified_time: 1596214813
   tags:
-  - David Lynch
-  - damn
+  - Vapor
+  - Wave
   - gif
-- title: take-him-down.gif
-  category: David Lynch
-  path: David Lynch/take-him-down.gif
-  modified_time: 1596143318
+  - triangle
+- title: infinite-escher.gif
+  category: Feliks-Tomasz-Konczakowski
+  path: Feliks-Tomasz-Konczakowski/infinite-escher.gif
+  modified_time: 1596158143
   tags:
-  - David Lynch
-  - down
+  - Feliks
+  - Konczakowski
+  - Tomasz
+  - escher
   - gif
-  - him
-  - take
+  - infinite
 - title: tumblr_91ee87fa74956f31ba176444dc4332db_cdf65839_400.gif
   category: Visionary
   path: Visionary/tumblr_91ee87fa74956f31ba176444dc4332db_cdf65839_400.gif
@@ -2591,57 +1935,52 @@
   - money
   - slower
   - test
-- title: Motion-Singularity.gif
-  category: Matt Taylor
-  path: Matt Taylor/Motion-Singularity.gif
-  modified_time: 1596152065
+- title: run.gif
+  category: Colin-Raff
+  path: Colin-Raff/run.gif
+  modified_time: 1596215212
   tags:
-  - Matt Taylor
-  - Motion
-  - Singularity
+  - Colin
+  - Raff
   - gif
-- title: impossible.gif
-  category: Matt Taylor
-  path: Matt Taylor/impossible.gif
-  modified_time: 1596152245
+  - run
+- title: fight.gif
+  category: Colin-Raff
+  path: Colin-Raff/fight.gif
+  modified_time: 1596215190
   tags:
-  - Matt Taylor
+  - Colin
+  - Raff
+  - fight
   - gif
-  - impossible
-- title: A6EOGK2.gif
-  category: MC Escher
-  path: MC Escher/A6EOGK2.gif
-  modified_time: 1596159024
+- title: dance.gif
+  category: Colin-Raff
+  path: Colin-Raff/dance.gif
+  modified_time: 1596215200
   tags:
-  - A6EOGK2
-  - MC Escher
+  - Colin
+  - Raff
+  - dance
   - gif
-- title: giphy-downsized-large.gif
-  category: MC Escher
-  path: MC Escher/giphy-downsized-large.gif
-  modified_time: 1596158116
+- title: dance-2.gif
+  category: Colin-Raff
+  path: Colin-Raff/dance-2.gif
+  modified_time: 1596215208
   tags:
-  - MC Escher
-  - downsized
+  - '2'
+  - Colin
+  - Raff
+  - dance
   - gif
-  - giphy
-  - large
-- title: giphy.gif
-  category: MC Escher
-  path: MC Escher/giphy.gif
-  modified_time: 1596158076
+- title: weird.gif
+  category: Dirk-Monteny
+  path: Dirk-Monteny/weird.gif
+  modified_time: 1596168278
   tags:
-  - MC Escher
+  - Dirk
+  - Monteny
   - gif
-  - giphy
-- title: 74cffae858c1f4c969a567f66bde38a5.gif
-  category: MC Escher
-  path: MC Escher/74cffae858c1f4c969a567f66bde38a5.gif
-  modified_time: 1596158128
-  tags:
-  - 74cffae858c1f4c969a567f66bde38a5
-  - MC Escher
-  - gif
+  - weird
 - title: holographic-1.gif
   category: trippy
   path: trippy/holographic-1.gif
@@ -2695,96 +2034,107 @@
   - holographic
   - trippy
 - title: LVH0.gif
-  category: Dain Fagerholm
-  path: Dain Fagerholm/LVH0.gif
+  category: Dain-Fagerholm
+  path: Dain-Fagerholm/LVH0.gif
   modified_time: 1596228220
   tags:
-  - Dain Fagerholm
+  - Dain
+  - Fagerholm
   - LVH0
   - gif
 - title: 3d33a331fb16a6ce7a35f1a81533cf82.gif
-  category: Dain Fagerholm
-  path: Dain Fagerholm/3d33a331fb16a6ce7a35f1a81533cf82.gif
+  category: Dain-Fagerholm
+  path: Dain-Fagerholm/3d33a331fb16a6ce7a35f1a81533cf82.gif
   modified_time: 1596228232
   tags:
   - 3d33a331fb16a6ce7a35f1a81533cf82
-  - Dain Fagerholm
+  - Dain
+  - Fagerholm
   - gif
 - title: 963a1f0d487a4aa2bd875f2529ca3a87.gif
-  category: Dain Fagerholm
-  path: Dain Fagerholm/963a1f0d487a4aa2bd875f2529ca3a87.gif
+  category: Dain-Fagerholm
+  path: Dain-Fagerholm/963a1f0d487a4aa2bd875f2529ca3a87.gif
   modified_time: 1596228245
   tags:
   - 963a1f0d487a4aa2bd875f2529ca3a87
-  - Dain Fagerholm
+  - Dain
+  - Fagerholm
   - gif
 - title: giphy-2.gif
-  category: Dain Fagerholm
-  path: Dain Fagerholm/giphy-2.gif
+  category: Dain-Fagerholm
+  path: Dain-Fagerholm/giphy-2.gif
   modified_time: 1596228291
   tags:
   - '2'
-  - Dain Fagerholm
+  - Dain
+  - Fagerholm
   - gif
   - giphy
 - title: giphy-3.gif
-  category: Dain Fagerholm
-  path: Dain Fagerholm/giphy-3.gif
+  category: Dain-Fagerholm
+  path: Dain-Fagerholm/giphy-3.gif
   modified_time: 1596228313
   tags:
   - '3'
-  - Dain Fagerholm
+  - Dain
+  - Fagerholm
   - gif
   - giphy
 - title: giphy-1.gif
-  category: Dain Fagerholm
-  path: Dain Fagerholm/giphy-1.gif
+  category: Dain-Fagerholm
+  path: Dain-Fagerholm/giphy-1.gif
   modified_time: 1596228284
   tags:
   - '1'
-  - Dain Fagerholm
+  - Dain
+  - Fagerholm
   - gif
   - giphy
 - title: 6f8c7ff6717d761e60726173e7187d69.gif
-  category: Dain Fagerholm
-  path: Dain Fagerholm/6f8c7ff6717d761e60726173e7187d69.gif
+  category: Dain-Fagerholm
+  path: Dain-Fagerholm/6f8c7ff6717d761e60726173e7187d69.gif
   modified_time: 1596228262
   tags:
   - 6f8c7ff6717d761e60726173e7187d69
-  - Dain Fagerholm
+  - Dain
+  - Fagerholm
   - gif
 - title: giphy.gif
-  category: Dain Fagerholm
-  path: Dain Fagerholm/giphy.gif
+  category: Dain-Fagerholm
+  path: Dain-Fagerholm/giphy.gif
   modified_time: 1596228270
   tags:
-  - Dain Fagerholm
+  - Dain
+  - Fagerholm
   - gif
   - giphy
 - title: bc9.gif
-  category: Dain Fagerholm
-  path: Dain Fagerholm/bc9.gif
+  category: Dain-Fagerholm
+  path: Dain-Fagerholm/bc9.gif
   modified_time: 1596228241
   tags:
-  - Dain Fagerholm
+  - Dain
+  - Fagerholm
   - bc9
   - gif
 - title: 0SMETOr.gif
-  category: Dain Fagerholm
-  path: Dain Fagerholm/0SMETOr.gif
+  category: Dain-Fagerholm
+  path: Dain-Fagerholm/0SMETOr.gif
   modified_time: 1596228180
   tags:
   - 0SMETOr
-  - Dain Fagerholm
+  - Dain
+  - Fagerholm
   - gif
 - title: hand-drawn-3d-stereographic-gifs-by-dain8-dain-fagerholm-1.gif
-  category: Dain Fagerholm
-  path: Dain Fagerholm/hand-drawn-3d-stereographic-gifs-by-dain8-dain-fagerholm-1.gif
+  category: Dain-Fagerholm
+  path: Dain-Fagerholm/hand-drawn-3d-stereographic-gifs-by-dain8-dain-fagerholm-1.gif
   modified_time: 1596228224
   tags:
   - '1'
   - 3d
-  - Dain Fagerholm
+  - Dain
+  - Fagerholm
   - by
   - dain
   - dain8
@@ -2795,100 +2145,949 @@
   - hand
   - stereographic
 - title: R0k7wOp.gif
-  category: Dain Fagerholm
-  path: Dain Fagerholm/R0k7wOp.gif
+  category: Dain-Fagerholm
+  path: Dain-Fagerholm/R0k7wOp.gif
   modified_time: 1596228214
   tags:
-  - Dain Fagerholm
+  - Dain
+  - Fagerholm
   - R0k7wOp
   - gif
-- title: VictoriousOnlyGoat-size_restricted.gif
-  category: Southland Tales
-  path: Southland Tales/VictoriousOnlyGoat-size_restricted.gif
-  modified_time: 1596202845
+- title: hello-grandfather.gif
+  category: David-Lynch
+  path: David-Lynch/hello-grandfather.gif
+  modified_time: 1596143269
   tags:
-  - Southland Tales
-  - VictoriousOnlyGoat
+  - David
+  - Lynch
+  - gif
+  - grandfather
+  - hello
+- title: eraser-head.gif
+  category: David-Lynch
+  path: David-Lynch/eraser-head.gif
+  modified_time: 1596142193
+  tags:
+  - David
+  - Lynch
+  - eraser
+  - gif
+  - head
+- title: cool.gif
+  category: David-Lynch
+  path: David-Lynch/cool.gif
+  modified_time: 1596143094
+  tags:
+  - David
+  - Lynch
+  - cool
+  - gif
+- title: poor-leo.gif
+  category: David-Lynch
+  path: David-Lynch/poor-leo.gif
+  modified_time: 1596143071
+  tags:
+  - David
+  - Lynch
+  - gif
+  - leo
+  - poor
+- title: lynch.gif
+  category: David-Lynch
+  path: David-Lynch/lynch.gif
+  modified_time: 1596143139
+  tags:
+  - David
+  - Lynch
+  - gif
+  - lynch
+- title: wishes.gif
+  category: David-Lynch
+  path: David-Lynch/wishes.gif
+  modified_time: 1596143202
+  tags:
+  - David
+  - Lynch
+  - gif
+  - wishes
+- title: donut.gif
+  category: David-Lynch
+  path: David-Lynch/donut.gif
+  modified_time: 1596143117
+  tags:
+  - David
+  - Lynch
+  - donut
+  - gif
+- title: fucking-phone.gif
+  category: David-Lynch
+  path: David-Lynch/fucking-phone.gif
+  modified_time: 1596143164
+  tags:
+  - David
+  - Lynch
+  - fucking
+  - gif
+  - phone
+- title: palmer.gif
+  category: David-Lynch
+  path: David-Lynch/palmer.gif
+  modified_time: 1596143248
+  tags:
+  - David
+  - Lynch
+  - gif
+  - palmer
+- title: leo-johnson.gif
+  category: David-Lynch
+  path: David-Lynch/leo-johnson.gif
+  modified_time: 1596143059
+  tags:
+  - David
+  - Lynch
+  - gif
+  - johnson
+  - leo
+- title: heineken.gif
+  category: David-Lynch
+  path: David-Lynch/heineken.gif
+  modified_time: 1596143187
+  tags:
+  - David
+  - Lynch
+  - gif
+  - heineken
+- title: empire.gif
+  category: David-Lynch
+  path: David-Lynch/empire.gif
+  modified_time: 1596143229
+  tags:
+  - David
+  - Lynch
+  - empire
+  - gif
+- title: damn.gif
+  category: David-Lynch
+  path: David-Lynch/damn.gif
+  modified_time: 1596143042
+  tags:
+  - David
+  - Lynch
+  - damn
+  - gif
+- title: take-him-down.gif
+  category: David-Lynch
+  path: David-Lynch/take-him-down.gif
+  modified_time: 1596143318
+  tags:
+  - David
+  - Lynch
+  - down
+  - gif
+  - him
+  - take
+- title: woman_helmet.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/woman_helmet.gif
+  modified_time: 1596144160
+  tags:
+  - Bill
+  - Domonkos
+  - gif
+  - helmet
+  - woman
+- title: domonkos-5.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/domonkos-5.gif
+  modified_time: 1596144041
+  tags:
+  - '5'
+  - Bill
+  - Domonkos
+  - domonkos
+  - gif
+- title: bill_domonkos_07.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/bill_domonkos_07.gif
+  modified_time: 1596143970
+  tags:
+  - '07'
+  - Bill
+  - Domonkos
+  - bill
+  - domonkos
+  - gif
+- title: MiniatureHelplessAnura-small.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/MiniatureHelplessAnura-small.gif
+  modified_time: 1596144156
+  tags:
+  - Bill
+  - Domonkos
+  - MiniatureHelplessAnura
+  - gif
+  - small
+- title: GlisteningAgitatedKoodoo-small.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/GlisteningAgitatedKoodoo-small.gif
+  modified_time: 1596144020
+  tags:
+  - Bill
+  - Domonkos
+  - GlisteningAgitatedKoodoo
+  - gif
+  - small
+- title: man_soda_can.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/man_soda_can.gif
+  modified_time: 1596144080
+  tags:
+  - Bill
+  - Domonkos
+  - can
+  - gif
+  - man
+  - soda
+- title: unnamed.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/unnamed.gif
+  modified_time: 1596143979
+  tags:
+  - Bill
+  - Domonkos
+  - gif
+  - unnamed
+- title: source-1.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/source-1.gif
+  modified_time: 1596143997
+  tags:
+  - '1'
+  - Bill
+  - Domonkos
+  - gif
+  - source
+- title: source-3.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/source-3.gif
+  modified_time: 1596144189
+  tags:
+  - '3'
+  - Bill
+  - Domonkos
+  - gif
+  - source
+- title: tumblr_o4d3jhxsmc1qkdrkzo1_r1_1280.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/tumblr_o4d3jhxsmc1qkdrkzo1_r1_1280.gif
+  modified_time: 1596143938
+  tags:
+  - '1280'
+  - Bill
+  - Domonkos
+  - gif
+  - o4d3jhxsmc1qkdrkzo1
+  - r1
+  - tumblr
+- title: domonkos-1.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/domonkos-1.gif
+  modified_time: 1596143973
+  tags:
+  - '1'
+  - Bill
+  - Domonkos
+  - domonkos
+  - gif
+- title: source-2.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/source-2.gif
+  modified_time: 1596144102
+  tags:
+  - '2'
+  - Bill
+  - Domonkos
+  - gif
+  - source
+- title: bill_domonkos_02.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/bill_domonkos_02.gif
+  modified_time: 1596144117
+  tags:
+  - '02'
+  - Bill
+  - Domonkos
+  - bill
+  - domonkos
+  - gif
+- title: mystic.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/mystic.gif
+  modified_time: 1596143774
+  tags:
+  - Bill
+  - Domonkos
+  - gif
+  - mystic
+- title: Bill-Domonkos-oo.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/Bill-Domonkos-oo.gif
+  modified_time: 1596144174
+  tags:
+  - Bill
+  - Domonkos
+  - gif
+  - oo
+- title: unnamed-4.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/unnamed-4.gif
+  modified_time: 1596144196
+  tags:
+  - '4'
+  - Bill
+  - Domonkos
+  - gif
+  - unnamed
+- title: Domonokos_4.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/Domonokos_4.gif
+  modified_time: 1596144002
+  tags:
+  - '4'
+  - Bill
+  - Domonkos
+  - Domonokos
+  - gif
+- title: source.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/source.gif
+  modified_time: 1596143955
+  tags:
+  - Bill
+  - Domonkos
+  - gif
+  - source
+- title: Bill-Domonkos-GIFs-985632.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/Bill-Domonkos-GIFs-985632.gif
+  modified_time: 1596144140
+  tags:
+  - '985632'
+  - Bill
+  - Domonkos
+  - GIFs
+  - gif
+- title: DoracD2.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/DoracD2.gif
+  modified_time: 1596144207
+  tags:
+  - Bill
+  - Domonkos
+  - DoracD2
+  - gif
+- title: bill13.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/bill13.gif
+  modified_time: 1596144092
+  tags:
+  - Bill
+  - Domonkos
+  - bill13
+  - gif
+- title: Bill-Domonkos-Portrait-of-a-Girl.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/Bill-Domonkos-Portrait-of-a-Girl.gif
+  modified_time: 1596144099
+  tags:
+  - Bill
+  - Domonkos
+  - Girl
+  - Portrait
+  - a
+  - gif
+  - of
+- title: plate.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/plate.gif
+  modified_time: 1596143717
+  tags:
+  - Bill
+  - Domonkos
+  - gif
+  - plate
+- title: tumblr_nteou0Kw0O1qkdrkzo1_r1_500.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/tumblr_nteou0Kw0O1qkdrkzo1_r1_500.gif
+  modified_time: 1596144202
+  tags:
+  - '500'
+  - Bill
+  - Domonkos
+  - gif
+  - nteou0Kw0O1qkdrkzo1
+  - r1
+  - tumblr
+- title: unnamed-2.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/unnamed-2.gif
+  modified_time: 1596144075
+  tags:
+  - '2'
+  - Bill
+  - Domonkos
+  - gif
+  - unnamed
+- title: tumblr_o30v8gTGGD1qkdrkzo1_r1_1280.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/tumblr_o30v8gTGGD1qkdrkzo1_r1_1280.gif
+  modified_time: 1596144113
+  tags:
+  - '1280'
+  - Bill
+  - Domonkos
+  - gif
+  - o30v8gTGGD1qkdrkzo1
+  - r1
+  - tumblr
+- title: Domonokos_3.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/Domonokos_3.gif
+  modified_time: 1596144136
+  tags:
+  - '3'
+  - Bill
+  - Domonkos
+  - Domonokos
+  - gif
+- title: 28oi.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/28oi.gif
+  modified_time: 1596215183
+  tags:
+  - 28oi
+  - Bill
+  - Domonkos
+  - gif
+- title: tumblr_inline_mt33wapRbR1qj79oe540.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/tumblr_inline_mt33wapRbR1qj79oe540.gif
+  modified_time: 1596144131
+  tags:
+  - Bill
+  - Domonkos
+  - gif
+  - inline
+  - mt33wapRbR1qj79oe540
+  - tumblr
+- title: unnamed-3.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/unnamed-3.gif
+  modified_time: 1596144184
+  tags:
+  - '3'
+  - Bill
+  - Domonkos
+  - gif
+  - unnamed
+- title: unnamed-1.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/unnamed-1.gif
+  modified_time: 1596144069
+  tags:
+  - '1'
+  - Bill
+  - Domonkos
+  - gif
+  - unnamed
+- title: Domonokos_1.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/Domonokos_1.gif
+  modified_time: 1596144008
+  tags:
+  - '1'
+  - Bill
+  - Domonkos
+  - Domonokos
+  - gif
+- title: Bill-Domonkos-GIFs-596823.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/Bill-Domonkos-GIFs-596823.gif
+  modified_time: 1596144014
+  tags:
+  - '596823'
+  - Bill
+  - Domonkos
+  - GIFs
+  - gif
+- title: tumblr_mr1lbfoeH41qkdrkzo1_r1_400.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/tumblr_mr1lbfoeH41qkdrkzo1_r1_400.gif
+  modified_time: 1596143990
+  tags:
+  - '400'
+  - Bill
+  - Domonkos
+  - gif
+  - mr1lbfoeH41qkdrkzo1
+  - r1
+  - tumblr
+- title: d6e4bc5536b538612ac831684e35bcb3.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/d6e4bc5536b538612ac831684e35bcb3.gif
+  modified_time: 1596144121
+  tags:
+  - Bill
+  - Domonkos
+  - d6e4bc5536b538612ac831684e35bcb3
+  - gif
+- title: GlumIdleFugu-size_restricted.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/GlumIdleFugu-size_restricted.gif
+  modified_time: 1596143985
+  tags:
+  - Bill
+  - Domonkos
+  - GlumIdleFugu
   - gif
   - restricted
   - size
-- title: giphy-1.gif
-  category: Southland Tales
-  path: Southland Tales/giphy-1.gif
-  modified_time: 1596202845
+- title: 37fcc03823411400171b091692cea1b0.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/37fcc03823411400171b091692cea1b0.gif
+  modified_time: 1596144061
+  tags:
+  - 37fcc03823411400171b091692cea1b0
+  - Bill
+  - Domonkos
+  - gif
+- title: content_plain-magazine-domonkos-10.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/content_plain-magazine-domonkos-10.gif
+  modified_time: 1596144051
+  tags:
+  - '10'
+  - Bill
+  - Domonkos
+  - content
+  - domonkos
+  - gif
+  - magazine
+  - plain
+- title: '05898279e6199b06c0af7023b7e04d5b.gif'
+  category: Bill-Domonkos
+  path: Bill-Domonkos/05898279e6199b06c0af7023b7e04d5b.gif
+  modified_time: 1596144211
+  tags:
+  - '05898279e6199b06c0af7023b7e04d5b'
+  - Bill
+  - Domonkos
+  - gif
+- title: AridGlossyIberianmidwifetoad-small.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/AridGlossyIberianmidwifetoad-small.gif
+  modified_time: 1596144216
+  tags:
+  - AridGlossyIberianmidwifetoad
+  - Bill
+  - Domonkos
+  - gif
+  - small
+- title: tumblr_55f9c693c0669fa270dcbdde8dab3ca9_d0eb2258_500.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/tumblr_55f9c693c0669fa270dcbdde8dab3ca9_d0eb2258_500.gif
+  modified_time: 1596144144
+  tags:
+  - '500'
+  - 55f9c693c0669fa270dcbdde8dab3ca9
+  - Bill
+  - Domonkos
+  - d0eb2258
+  - gif
+  - tumblr
+- title: content_plain-magazine-domonkos-01.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/content_plain-magazine-domonkos-01.gif
+  modified_time: 1596143964
+  tags:
+  - '01'
+  - Bill
+  - Domonkos
+  - content
+  - domonkos
+  - gif
+  - magazine
+  - plain
+- title: Domonokos_1-1.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/Domonokos_1-1.gif
+  modified_time: 1596144030
   tags:
   - '1'
-  - Southland Tales
+  - Bill
+  - Domonkos
+  - Domonokos
+  - gif
+- title: ERis.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/ERis.gif
+  modified_time: 1596144056
+  tags:
+  - Bill
+  - Domonkos
+  - ERis
+  - gif
+- title: 0fdb51ff3c163d588f100950b5b3c58c.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/0fdb51ff3c163d588f100950b5b3c58c.gif
+  modified_time: 1596144152
+  tags:
+  - 0fdb51ff3c163d588f100950b5b3c58c
+  - Bill
+  - Domonkos
+  - gif
+- title: woman_with_hand.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/woman_with_hand.gif
+  modified_time: 1596144038
+  tags:
+  - Bill
+  - Domonkos
+  - gif
+  - hand
+  - with
+  - woman
+- title: bill_domonkos_08.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/bill_domonkos_08.gif
+  modified_time: 1596144046
+  tags:
+  - '08'
+  - Bill
+  - Domonkos
+  - bill
+  - domonkos
+  - gif
+- title: ClearcutImaginativeAfricanmolesnake-small.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/ClearcutImaginativeAfricanmolesnake-small.gif
+  modified_time: 1596143993
+  tags:
+  - Bill
+  - ClearcutImaginativeAfricanmolesnake
+  - Domonkos
+  - gif
+  - small
+- title: krChs-GKy5d49A7ykFxZ_1082129633.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/krChs-GKy5d49A7ykFxZ_1082129633.gif
+  modified_time: 1596144126
+  tags:
+  - '1082129633'
+  - Bill
+  - Domonkos
+  - GKy5d49A7ykFxZ
+  - gif
+  - krChs
+- title: domonkos-8.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/domonkos-8.gif
+  modified_time: 1596144221
+  tags:
+  - '8'
+  - Bill
+  - Domonkos
+  - domonkos
+  - gif
+- title: tumblr_moahstZUf11qkdrkzo1_r2_500.gif
+  category: Bill-Domonkos
+  path: Bill-Domonkos/tumblr_moahstZUf11qkdrkzo1_r2_500.gif
+  modified_time: 1596144086
+  tags:
+  - '500'
+  - Bill
+  - Domonkos
+  - gif
+  - moahstZUf11qkdrkzo1
+  - r2
+  - tumblr
+- title: 88SF.gif
+  category: Max-Headroom
+  path: Max-Headroom/88SF.gif
+  modified_time: 1596229503
+  tags:
+  - 88SF
+  - Headroom
+  - Max
+  - gif
+- title: 6cSh.gif
+  category: Max-Headroom
+  path: Max-Headroom/6cSh.gif
+  modified_time: 1596229484
+  tags:
+  - 6cSh
+  - Headroom
+  - Max
+  - gif
+- title: 2jX1.gif
+  category: Max-Headroom
+  path: Max-Headroom/2jX1.gif
+  modified_time: 1596229521
+  tags:
+  - 2jX1
+  - Headroom
+  - Max
+  - gif
+- title: ReactionDiffusion.gif
+  category: Adam-Pizurny
+  path: Adam-Pizurny/ReactionDiffusion.gif
+  modified_time: 1596158650
+  tags:
+  - Adam
+  - Pizurny
+  - ReactionDiffusion
+  - gif
+- title: giphy-2.gif
+  category: Adam-Pizurny
+  path: Adam-Pizurny/giphy-2.gif
+  modified_time: 1596158449
+  tags:
+  - '2'
+  - Adam
+  - Pizurny
   - gif
   - giphy
-- title: oLEt5j5.gif
-  category: Southland Tales
-  path: Southland Tales/oLEt5j5.gif
-  modified_time: 1596202845
+- title: giphy-3.gif
+  category: Adam-Pizurny
+  path: Adam-Pizurny/giphy-3.gif
+  modified_time: 1596158454
   tags:
-  - Southland Tales
+  - '3'
+  - Adam
+  - Pizurny
   - gif
-  - oLEt5j5
-- title: SecondaryDecimalAzurewingedmagpie-max-1mb.gif
-  category: Southland Tales
-  path: Southland Tales/SecondaryDecimalAzurewingedmagpie-max-1mb.gif
-  modified_time: 1596202845
+  - giphy
+- title: giphy-1.gif
+  category: Adam-Pizurny
+  path: Adam-Pizurny/giphy-1.gif
+  modified_time: 1596158438
   tags:
-  - 1mb
-  - SecondaryDecimalAzurewingedmagpie
-  - Southland Tales
+  - '1'
+  - Adam
+  - Pizurny
   - gif
-  - max
+  - giphy
+- title: giphy-4.gif
+  category: Adam-Pizurny
+  path: Adam-Pizurny/giphy-4.gif
+  modified_time: 1596158463
+  tags:
+  - '4'
+  - Adam
+  - Pizurny
+  - gif
+  - giphy
+- title: giphy-12.gif
+  category: Adam-Pizurny
+  path: Adam-Pizurny/giphy-12.gif
+  modified_time: 1596158605
+  tags:
+  - '12'
+  - Adam
+  - Pizurny
+  - gif
+  - giphy
+- title: giphy-13.gif
+  category: Adam-Pizurny
+  path: Adam-Pizurny/giphy-13.gif
+  modified_time: 1596158624
+  tags:
+  - '13'
+  - Adam
+  - Pizurny
+  - gif
+  - giphy
+- title: giphy-5.gif
+  category: Adam-Pizurny
+  path: Adam-Pizurny/giphy-5.gif
+  modified_time: 1596158479
+  tags:
+  - '5'
+  - Adam
+  - Pizurny
+  - gif
+  - giphy
+- title: giphy-7.gif
+  category: Adam-Pizurny
+  path: Adam-Pizurny/giphy-7.gif
+  modified_time: 1596158508
+  tags:
+  - '7'
+  - Adam
+  - Pizurny
+  - gif
+  - giphy
+- title: giphy-11.gif
+  category: Adam-Pizurny
+  path: Adam-Pizurny/giphy-11.gif
+  modified_time: 1596158588
+  tags:
+  - '11'
+  - Adam
+  - Pizurny
+  - gif
+  - giphy
 - title: giphy.gif
-  category: Southland Tales
-  path: Southland Tales/giphy.gif
-  modified_time: 1596202845
+  category: Adam-Pizurny
+  path: Adam-Pizurny/giphy.gif
+  modified_time: 1596158425
   tags:
-  - Southland Tales
+  - Adam
+  - Pizurny
   - gif
   - giphy
-- title: 787qXNl.gif
-  category: Southland Tales
-  path: Southland Tales/787qXNl.gif
-  modified_time: 1596202845
+- title: giphy-10.gif
+  category: Adam-Pizurny
+  path: Adam-Pizurny/giphy-10.gif
+  modified_time: 1596158556
   tags:
-  - 787qXNl
-  - Southland Tales
+  - '10'
+  - Adam
+  - Pizurny
   - gif
-- title: ZtEaqpL.gif
-  category: Southland Tales
-  path: Southland Tales/ZtEaqpL.gif
-  modified_time: 1596202845
+  - giphy
+- title: giphy-6.gif
+  category: Adam-Pizurny
+  path: Adam-Pizurny/giphy-6.gif
+  modified_time: 1596158501
   tags:
-  - Southland Tales
-  - ZtEaqpL
+  - '6'
+  - Adam
+  - Pizurny
   - gif
-- title: Pul4.gif
-  category: Southland Tales
-  path: Southland Tales/Pul4.gif
-  modified_time: 1596202845
+  - giphy
+- title: giphy-8.gif
+  category: Adam-Pizurny
+  path: Adam-Pizurny/giphy-8.gif
+  modified_time: 1596158531
   tags:
-  - Pul4
-  - Southland Tales
+  - '8'
+  - Adam
+  - Pizurny
   - gif
-- title: BestGenerousHammerheadbird-max-1mb.gif
-  category: Southland Tales
-  path: Southland Tales/BestGenerousHammerheadbird-max-1mb.gif
-  modified_time: 1596202845
+  - giphy
+- title: giphy-9.gif
+  category: Adam-Pizurny
+  path: Adam-Pizurny/giphy-9.gif
+  modified_time: 1596158542
   tags:
-  - 1mb
-  - BestGenerousHammerheadbird
-  - Southland Tales
+  - '9'
+  - Adam
+  - Pizurny
   - gif
-  - max
-- title: images.jpg
-  category: Southland Tales
-  path: Southland Tales/images.jpg
-  modified_time: 1596202845
+  - giphy
+- title: Blender Recursion.gif
+  category: Adam-Pizurny
+  path: Adam-Pizurny/Blender Recursion.gif
+  modified_time: 1596158570
   tags:
-  - Southland Tales
-  - images
-  - jpg
+  - Adam
+  - Blender Recursion
+  - Pizurny
+  - gif
+- title: v_chill.gif
+  category: Jay-Sprogell
+  path: Jay-Sprogell/v_chill.gif
+  modified_time: 1596227777
+  tags:
+  - Jay
+  - Sprogell
+  - chill
+  - gif
+  - v
+- title: chromeo-1.gif
+  category: Jay-Sprogell
+  path: Jay-Sprogell/chromeo-1.gif
+  modified_time: 1596227791
+  tags:
+  - '1'
+  - Jay
+  - Sprogell
+  - chromeo
+  - gif
+- title: cceec6e511083d02a1c7d9ec223ea58d.gif
+  category: Jay-Sprogell
+  path: Jay-Sprogell/cceec6e511083d02a1c7d9ec223ea58d.gif
+  modified_time: 1596227784
+  tags:
+  - Jay
+  - Sprogell
+  - cceec6e511083d02a1c7d9ec223ea58d
+  - gif
+- title: chxdl_2alt.gif
+  category: Jay-Sprogell
+  path: Jay-Sprogell/chxdl_2alt.gif
+  modified_time: 1596227797
+  tags:
+  - 2alt
+  - Jay
+  - Sprogell
+  - chxdl
+  - gif
+- title: 419e6861043792fba54a7571de3c373d.gif
+  category: Jay-Sprogell
+  path: Jay-Sprogell/419e6861043792fba54a7571de3c373d.gif
+  modified_time: 1596227770
+  tags:
+  - 419e6861043792fba54a7571de3c373d
+  - Jay
+  - Sprogell
+  - gif
+- title: tumblr_nfwl9jt8mS1qbdir4o1_400.gif
+  category: Sholim-Milos-Rajkovic
+  path: Sholim-Milos-Rajkovic/tumblr_nfwl9jt8mS1qbdir4o1_400.gif
+  modified_time: 1596228032
+  tags:
+  - '400'
+  - Milos
+  - Rajkovic
+  - Sholim
+  - gif
+  - nfwl9jt8mS1qbdir4o1
+  - tumblr
+- title: SparklingVerifiableFox-size_restricted.gif
+  category: Sholim-Milos-Rajkovic
+  path: Sholim-Milos-Rajkovic/SparklingVerifiableFox-size_restricted.gif
+  modified_time: 1596228036
+  tags:
+  - Milos
+  - Rajkovic
+  - Sholim
+  - SparklingVerifiableFox
+  - gif
+  - restricted
+  - size
+- title: 14860484388_by_Sholim.gif
+  category: Sholim-Milos-Rajkovic
+  path: Sholim-Milos-Rajkovic/14860484388_by_Sholim.gif
+  modified_time: 1596227973
+  tags:
+  - '14860484388'
+  - Milos
+  - Rajkovic
+  - Sholim
+  - by
+  - gif
+- title: Sholim Milos Rajkovic.gif
+  category: Sholim-Milos-Rajkovic
+  path: Sholim-Milos-Rajkovic/Sholim Milos Rajkovic.gif
+  modified_time: 1596227985
+  tags:
+  - Milos
+  - Rajkovic
+  - Sholim
+  - Sholim Milos Rajkovic
+  - gif
 - title: Visual Art Math.gif
   category: SymmetryInChaos
   path: SymmetryInChaos/Visual Art Math.gif
@@ -2905,205 +3104,207 @@
   - SymmetryInChaos
   - gif
   - giphy
-- title: tumblr_mhv9q2qSyF1qg39ewo1_500.gif
-  category: Fantastic Planet
-  path: Fantastic Planet/tumblr_mhv9q2qSyF1qg39ewo1_500.gif
-  modified_time: 1596229083
+- title: tenor.gif
+  category: Salvador-Dali
+  path: Salvador-Dali/tenor.gif
+  modified_time: 1596143352
   tags:
-  - '500'
-  - Fantastic Planet
+  - Dali
+  - Salvador
   - gif
-  - mhv9q2qSyF1qg39ewo1
-  - tumblr
-- title: twOF97k.gif
-  category: Fantastic Planet
-  path: Fantastic Planet/twOF97k.gif
-  modified_time: 1596228980
+  - tenor
+- title: artcore.gif
+  category: Salvador-Dali
+  path: Salvador-Dali/artcore.gif
+  modified_time: 1596142981
   tags:
-  - Fantastic Planet
+  - Dali
+  - Salvador
+  - artcore
   - gif
-  - twOF97k
-- title: source-1.gif
-  category: Fantastic Planet
-  path: Fantastic Planet/source-1.gif
-  modified_time: 1596228935
+- title: salvador-dali.gif
+  category: Salvador-Dali
+  path: Salvador-Dali/salvador-dali.gif
+  modified_time: 1596142954
+  tags:
+  - Dali
+  - Salvador
+  - dali
+  - gif
+  - salvador
+- title: dancing.gif
+  category: big-Lebowski
+  path: big-Lebowski/dancing.gif
+  modified_time: 1596127408
+  tags:
+  - Lebowski
+  - big
+  - dancing
+  - gif
+- title: polish-my-ball.gif
+  category: big-Lebowski
+  path: big-Lebowski/polish-my-ball.gif
+  modified_time: 1596127408
+  tags:
+  - Lebowski
+  - ball
+  - big
+  - gif
+  - my
+  - polish
+- title: ashes-toss.gif
+  category: big-Lebowski
+  path: big-Lebowski/ashes-toss.gif
+  modified_time: 1596127408
+  tags:
+  - Lebowski
+  - ashes
+  - big
+  - gif
+  - toss
+- title: what.gif
+  category: big-Lebowski
+  path: big-Lebowski/what.gif
+  modified_time: 1596127408
+  tags:
+  - Lebowski
+  - big
+  - gif
+  - what
+- title: no-huh-uh.gif
+  category: big-Lebowski
+  path: big-Lebowski/no-huh-uh.gif
+  modified_time: 1596127408
+  tags:
+  - Lebowski
+  - big
+  - gif
+  - huh
+  - 'no'
+  - uh
+- title: oh-alright.gif
+  category: big-Lebowski
+  path: big-Lebowski/oh-alright.gif
+  modified_time: 1596127408
+  tags:
+  - Lebowski
+  - alright
+  - big
+  - gif
+  - oh
+- title: stoned.gif
+  category: big-Lebowski
+  path: big-Lebowski/stoned.gif
+  modified_time: 1596127408
+  tags:
+  - Lebowski
+  - big
+  - gif
+  - stoned
+- title: gun.gif
+  category: big-Lebowski
+  path: big-Lebowski/gun.gif
+  modified_time: 1596127408
+  tags:
+  - Lebowski
+  - big
+  - gif
+  - gun
+- title: VictoriousOnlyGoat-size_restricted.gif
+  category: Southland-Tales
+  path: Southland-Tales/VictoriousOnlyGoat-size_restricted.gif
+  modified_time: 1596202845
+  tags:
+  - Southland
+  - Tales
+  - VictoriousOnlyGoat
+  - gif
+  - restricted
+  - size
+- title: giphy-1.gif
+  category: Southland-Tales
+  path: Southland-Tales/giphy-1.gif
+  modified_time: 1596202845
   tags:
   - '1'
-  - Fantastic Planet
-  - gif
-  - source
-- title: 500full-fantastic-planet-screenshot.jpg.gif
-  category: Fantastic Planet
-  path: Fantastic Planet/500full-fantastic-planet-screenshot.jpg.gif
-  modified_time: 1596229035
-  tags:
-  - 500full
-  - Fantastic Planet
-  - fantastic
-  - gif
-  - jpg
-  - planet
-  - screenshot
-- title: source-3.gif
-  category: Fantastic Planet
-  path: Fantastic Planet/source-3.gif
-  modified_time: 1596229093
-  tags:
-  - '3'
-  - Fantastic Planet
-  - gif
-  - source
-- title: source-2.gif
-  category: Fantastic Planet
-  path: Fantastic Planet/source-2.gif
-  modified_time: 1596228962
-  tags:
-  - '2'
-  - Fantastic Planet
-  - gif
-  - source
-- title: e13b9895240858d8973aa906be34457d.gif
-  category: Fantastic Planet
-  path: Fantastic Planet/e13b9895240858d8973aa906be34457d.gif
-  modified_time: 1596228940
-  tags:
-  - Fantastic Planet
-  - e13b9895240858d8973aa906be34457d
-  - gif
-- title: source.gif
-  category: Fantastic Planet
-  path: Fantastic Planet/source.gif
-  modified_time: 1596228917
-  tags:
-  - Fantastic Planet
-  - gif
-  - source
-- title: tumblr_nucdejfKFj1qc3ju8o8_540.gif
-  category: Fantastic Planet
-  path: Fantastic Planet/tumblr_nucdejfKFj1qc3ju8o8_540.gif
-  modified_time: 1596229026
-  tags:
-  - '540'
-  - Fantastic Planet
-  - gif
-  - nucdejfKFj1qc3ju8o8
-  - tumblr
-- title: tumblr_mhv9ormOMX1qg39ewo1_500.gif
-  category: Fantastic Planet
-  path: Fantastic Planet/tumblr_mhv9ormOMX1qg39ewo1_500.gif
-  modified_time: 1596228967
-  tags:
-  - '500'
-  - Fantastic Planet
-  - gif
-  - mhv9ormOMX1qg39ewo1
-  - tumblr
-- title: c8951320ca6755611983500ea12a1d3d.gif
-  category: Fantastic Planet
-  path: Fantastic Planet/c8951320ca6755611983500ea12a1d3d.gif
-  modified_time: 1596228999
-  tags:
-  - Fantastic Planet
-  - c8951320ca6755611983500ea12a1d3d
-  - gif
-- title: tumblr_nucdejfKFj1qc3ju8o9_540.gif
-  category: Fantastic Planet
-  path: Fantastic Planet/tumblr_nucdejfKFj1qc3ju8o9_540.gif
-  modified_time: 1596229103
-  tags:
-  - '540'
-  - Fantastic Planet
-  - gif
-  - nucdejfKFj1qc3ju8o9
-  - tumblr
-- title: giphy.gif
-  category: Fantastic Planet
-  path: Fantastic Planet/giphy.gif
-  modified_time: 1596228954
-  tags:
-  - Fantastic Planet
+  - Southland
+  - Tales
   - gif
   - giphy
-- title: tumblr_nucdejfKFj1qc3ju8o5_540.gif
-  category: Fantastic Planet
-  path: Fantastic Planet/tumblr_nucdejfKFj1qc3ju8o5_540.gif
-  modified_time: 1596229006
+- title: oLEt5j5.gif
+  category: Southland-Tales
+  path: Southland-Tales/oLEt5j5.gif
+  modified_time: 1596202845
   tags:
-  - '540'
-  - Fantastic Planet
+  - Southland
+  - Tales
   - gif
-  - nucdejfKFj1qc3ju8o5
-  - tumblr
-- title: tumblr_nl0muaYp331qc3ju8o1_540.gif
-  category: Fantastic Planet
-  path: Fantastic Planet/tumblr_nl0muaYp331qc3ju8o1_540.gif
-  modified_time: 1596229012
+  - oLEt5j5
+- title: SecondaryDecimalAzurewingedmagpie-max-1mb.gif
+  category: Southland-Tales
+  path: Southland-Tales/SecondaryDecimalAzurewingedmagpie-max-1mb.gif
+  modified_time: 1596202845
   tags:
-  - '540'
-  - Fantastic Planet
+  - 1mb
+  - SecondaryDecimalAzurewingedmagpie
+  - Southland
+  - Tales
   - gif
-  - nl0muaYp331qc3ju8o1
-  - tumblr
-- title: b86b725c6dbba3bb28b3e642333a2378.gif
-  category: Fantastic Planet
-  path: Fantastic Planet/b86b725c6dbba3bb28b3e642333a2378.gif
-  modified_time: 1596228926
+  - max
+- title: giphy.gif
+  category: Southland-Tales
+  path: Southland-Tales/giphy.gif
+  modified_time: 1596202845
   tags:
-  - Fantastic Planet
-  - b86b725c6dbba3bb28b3e642333a2378
+  - Southland
+  - Tales
   - gif
-- title: hapGGWa.gif
-  category: Fantastic Planet
-  path: Fantastic Planet/hapGGWa.gif
-  modified_time: 1596229071
+  - giphy
+- title: 787qXNl.gif
+  category: Southland-Tales
+  path: Southland-Tales/787qXNl.gif
+  modified_time: 1596202845
   tags:
-  - Fantastic Planet
+  - 787qXNl
+  - Southland
+  - Tales
   - gif
-  - hapGGWa
-- title: tumblr_m9lmvztzvy1qamyzxo1_500.gif
-  category: Fantastic Planet
-  path: Fantastic Planet/tumblr_m9lmvztzvy1qamyzxo1_500.gif
-  modified_time: 1596229040
+- title: ZtEaqpL.gif
+  category: Southland-Tales
+  path: Southland-Tales/ZtEaqpL.gif
+  modified_time: 1596202845
   tags:
-  - '500'
-  - Fantastic Planet
+  - Southland
+  - Tales
+  - ZtEaqpL
   - gif
-  - m9lmvztzvy1qamyzxo1
-  - tumblr
-- title: tumblr_nl0muaYp331qc3ju8o2_540.gif
-  category: Fantastic Planet
-  path: Fantastic Planet/tumblr_nl0muaYp331qc3ju8o2_540.gif
-  modified_time: 1596229064
+- title: Pul4.gif
+  category: Southland-Tales
+  path: Southland-Tales/Pul4.gif
+  modified_time: 1596202845
   tags:
-  - '540'
-  - Fantastic Planet
+  - Pul4
+  - Southland
+  - Tales
   - gif
-  - nl0muaYp331qc3ju8o2
-  - tumblr
-- title: tumblr_nucdejfKFj1qc3ju8o6_540.gif
-  category: Fantastic Planet
-  path: Fantastic Planet/tumblr_nucdejfKFj1qc3ju8o6_540.gif
-  modified_time: 1596229138
+- title: BestGenerousHammerheadbird-max-1mb.gif
+  category: Southland-Tales
+  path: Southland-Tales/BestGenerousHammerheadbird-max-1mb.gif
+  modified_time: 1596202845
   tags:
-  - '540'
-  - Fantastic Planet
+  - 1mb
+  - BestGenerousHammerheadbird
+  - Southland
+  - Tales
   - gif
-  - nucdejfKFj1qc3ju8o6
-  - tumblr
-- title: s7MPhbv.gif
-  category: Fantastic Planet
-  path: Fantastic Planet/s7MPhbv.gif
-  modified_time: 1596229047
+  - max
+- title: Motion-Singularity.gif
+  category: Matt-Taylor
+  path: Matt-Taylor/Motion-Singularity.gif
+  modified_time: 1596152065
   tags:
-  - Fantastic Planet
+  - Matt
+  - Motion
+  - Singularity
+  - Taylor
   - gif
-  - s7MPhbv
-- title: v_chill.gif
-  category: Jay Sprogell
-  path: Jay Sprogell/v_chill.gif
-  modified_time: 1596227777
-  tags:
-  - Jay Sprogell
-  - chill
-  - gif
-  - v
